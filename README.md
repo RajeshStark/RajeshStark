@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 This is Rajesh Sangapogu
+## React native and mern stack developer
 
 <!--
 **RajeshStark/RajeshStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
