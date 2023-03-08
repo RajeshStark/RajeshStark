@@ -1,4 +1,4 @@
-### Hi there 👋 This is Rajesh Sangapogu
+# Hi there 👋 This is Rajesh Sangapogu
 ## React native and mern stack developer
 
 <!--
