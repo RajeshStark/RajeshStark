@@ -1,6 +1,11 @@
 # Hi there 👋 This is Rajesh Sangapogu
 ## React native and mern stack developer
 
+- 🏡 I'm based on Hyderabad, India
+- 👨‍💻 I'm currently working on React Native with 3+ years experience
+- 🌱 Learning MERN Stack Technologies (MongoDB, ExpressJs, React, NodeJs).
+- 💡🌅🏹 Improving ...
+
 <!--
 **RajeshStark/RajeshStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
