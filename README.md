@@ -2,7 +2,7 @@
 ## React native and mern stack developer
 
 - 🏡 I'm based on Hyderabad, India
-- 👨‍💻 I'm currently working on React Native with 3+ years experience
+- 👨‍💻 I'm currently working on React Native technology having 3+ years experience
 - 🌱 Learning MERN Stack Technologies (MongoDB, ExpressJs, React, NodeJs).
 - 💡🌅🏹 Improving ...
 
