@@ -1,6 +1,6 @@
 # Hi there 👋 This is Rajesh Sangapogu
 ## React native and mern stack developer
-
+![alt text](https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg)
 - 🏡 I'm based on Hyderabad, India
 - 👨‍💻 I'm currently working on React Native technology having 3+ years experience
 - 🌱 Learning MERN Stack Technologies (MongoDB, ExpressJs, React, NodeJs).
