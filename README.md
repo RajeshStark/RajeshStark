@@ -6,7 +6,7 @@
 - 🌱 Learning MERN Stack Technologies (MongoDB, ExpressJs, React, NodeJs).
 - 💡🌅🏹 Improving ...
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines={'Rajesh Sangapogu'};)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=RajeshSangapogu;)](https://git.io/typing-svg)
 
 <div align="center">
 <a href=></a>
