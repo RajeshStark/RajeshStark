@@ -20,7 +20,8 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RajeshStark&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="DGS1337 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajeshStark&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
+  
+  <img src="https://miro.medium.com/v2/resize:fit:1356/format:webp/1*OUA5w44w-XKomWGAb4Uz1A.png" width="500" title="MERN (MongoDB, ExpressJS, React&React Native, NodeJS)"> 
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
@@ -35,7 +36,7 @@
 <a href=></a>
 <br><br>
 
-  <img src="https://miro.medium.com/v2/resize:fit:1356/format:webp/1*OUA5w44w-XKomWGAb4Uz1A.png" width="500" title="MERN (MongoDB, ExpressJS, React&React Native, NodeJS)"> 
+
 <!--
 **RajeshStark/RajeshStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
