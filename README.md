@@ -1,13 +1,12 @@
 # Hi there 👋 This is Rajesh Sangapogu
 ##  <img src="https://d33wubrfki0l68.cloudfront.net/554c3b0e09cf167f0281fda839a5433f2040b349/ecfc9/img/header_logo.svg" width="25" title="React World">  React native and mern stack developer
 
-<img src="https://miro.medium.com/v2/resize:fit:1356/format:webp/1*OUA5w44w-XKomWGAb4Uz1A.png" width="500" title="MERN (MongoDB, ExpressJS, React&React Native, NodeJS)"> 
-
 - 🏡 I'm based on Hyderabad, India
 - 👨‍💻 I'm currently working on React Native technology having 3+ years experience
 - 🌱 Learning MERN Stack Technologies (MongoDB, ExpressJs, React, NodeJs).
 - 💡🌅🏹 Improving ...
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines={'Rajesh Sangapogu'};)](https://git.io/typing-svg)
 
 <div align="center">
 <a href=></a>
@@ -36,8 +35,7 @@
 <a href=></a>
 <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Rajesh-Sangapogu;)](https://git.io/typing-svg)
-
+  <img src="https://miro.medium.com/v2/resize:fit:1356/format:webp/1*OUA5w44w-XKomWGAb4Uz1A.png" width="500" title="MERN (MongoDB, ExpressJS, React&React Native, NodeJS)"> 
 <!--
 **RajeshStark/RajeshStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
