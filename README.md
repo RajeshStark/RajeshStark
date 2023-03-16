@@ -36,7 +36,7 @@
 <a href=></a>
 <br><br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Rajesh Sangapogu;)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Rajesh-Sangapogu;)](https://git.io/typing-svg)
 
 <!--
 **RajeshStark/RajeshStark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
